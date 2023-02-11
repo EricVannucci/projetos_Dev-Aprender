@@ -5,7 +5,7 @@ from time import sleep
 from datetime import datetime
 
 # definir para quais contatos enviar msgs
-contatos = ['+5527992733439']
+contatos = ['+5527988330280']
 # definir intervalo de envio
 while len(contatos) >= 1:
     # enviar mensagens

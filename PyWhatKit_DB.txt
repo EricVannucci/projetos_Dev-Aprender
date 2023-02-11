@@ -53,3 +53,13 @@ Time: 9:15
 Phone Number: +5527992733439
 Message: Testando automatização de mensagens com Python!!
 --------------------
+Date: 10/2/2023
+Time: 18:43
+Phone Number: +5527988330280
+Message: Testando automatização de mensagens com Python!!
+--------------------
+Date: 10/2/2023
+Time: 18:47
+Phone Number: +5527988330280
+Message: Testando automatização de mensagens com Python!!
+--------------------
